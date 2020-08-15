@@ -1,0 +1,7 @@
+virtual environment name >>>>> rp
+
+
+police >>>> main folder
+
+
+police/policerp >>> the actual project
